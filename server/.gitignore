@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# dotenv
+.env
+.env.local
+*.env
+
+# Ignore server's .env specifically
+/server/.env
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
